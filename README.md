@@ -51,8 +51,7 @@ I enjoy experimenting with new technologies and using AI to solve real-world pro
 ---
 
 ## 📫 **Reach Me At**
-- **Email:** *your-email-here*  
-- **LinkedIn:** *your-link-here*
+- **Email:** *lakshyaharkhani@gmail.com*  
 
 ---
 
