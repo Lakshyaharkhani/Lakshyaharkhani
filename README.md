@@ -23,12 +23,21 @@ I enjoy experimenting with new technologies and using AI to solve real-world pro
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+### 👨🏻‍💻 **programming Languages**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ### 🎨 **Creative / Branding**
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-6A5ACD?style=flat-square)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white)
 
 ---
 
